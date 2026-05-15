@@ -103,7 +103,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=48&dura
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux,bash,postman&theme=dark" height="170"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux,macos&theme=dark" height="170"/>
 
 <br><br>
 
