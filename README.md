@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Hindi&weight=700&size=42&duration=2500&pause=800&color=FF9933&center=true&vCenter=true&width=700&height=80&lines=राधे+राधे+🙏;जय+श्री+राधे+💛;हरे+कृष्ण+✨"
+src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=48&duration=2000&pause=800&color=FFD700&background=00000000&center=true&vCenter=true&width=1000&height=100&lines=🦚+Hare+Krishna+🦚;🌸+Radhe+Radhe+🌸"
 />
 
 </div>
