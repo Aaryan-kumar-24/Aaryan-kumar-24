@@ -1,4 +1,15 @@
 <div align="center">
+
+<img 
+src="https://readme-typing-svg.herokuapp.com?font=Tiro+Devanagari+Hindi&weight=700&size=42&duration=2500&pause=800&color=FF9933&center=true&vCenter=true&width=700&height=80&lines=राधे+राधे+🙏;जय+श्री+राधे+💛;हरे+कृष्ण+✨"
+/>
+
+</div>
+
+<br>
+
+
+<div align="center">
 <p align="center">
   <img 
     src="aryanimage.png"
