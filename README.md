@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,50:004e92,100:00F7FF&text=Aryan%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Cloud%20Engineer&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,50:004e92,100:00F7FF&text=Aryan%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Cloud%20Engineer&descAlignY=58&descSize=22"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=1200&height=100&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;Computer+Vision+Developer;Cloud+%26+DevOps+Engineer;Building+Scalable+Intelligent+Systems;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&height=90&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;Computer+Vision+Developer;Cloud+%26+DevOps+Engineer;Building+Scalable+Systems;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="1000"/>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="750"/>
 
 </div>
 
@@ -30,50 +30,24 @@
 
 <tr>
 
-<td width="60%" align="left">
+<td width="58%" align="left">
 
 ### 👨‍💻 Aryan Kumar
 
 - 🎓 Information Science & Engineering Student  
 - 🧠 AI & Machine Learning Enthusiast  
-- ⚡ Full Stack & Cloud Developer  
-- ☁️ DevOps & System Design Learner  
+- ⚡ Full Stack Developer  
+- ☁️ Cloud & DevOps Engineer  
 - 👁️ Computer Vision Developer  
-- 🚀 Building scalable real-world systems  
-- 🔥 Passionate about intelligent automation  
+- 🚀 Building scalable intelligent systems  
+- 🔥 Passionate about real-world engineering  
 - 🎯 Goal: Become a world-class AI & Systems Engineer  
 
 </td>
 
-<td width="40%" align="center">
+<td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🎓 EDUCATION
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="100%">
-
-<img src="https://img.shields.io/badge/Dayananda%20Sagar%20Academy%20of%20Technology%20and%20Management-00F7FF?style=for-the-badge&logo=academia&logoColor=black"/>
-
-### 📚 Bachelor of Engineering — Information Science & Engineering  
-### 🎯 Expected Graduation: 2027  
-### 🏆 CGPA: 9.26  
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="340"/>
 
 </td>
 
@@ -101,7 +75,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" height="140"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" height="170"/>
 
 <br><br>
 
@@ -135,7 +109,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma&theme=dark" height="150"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma&theme=dark" height="170"/>
 
 </div>
 
@@ -145,7 +119,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" height="150"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" height="170"/>
 
 </div>
 
@@ -155,7 +129,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,ansible,bash,linux&theme=dark" height="150"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,ansible,bash,linux&theme=dark" height="170"/>
 
 </div>
 
@@ -213,7 +187,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase&theme=dark" height="150"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase&theme=dark" height="170"/>
 
 </div>
 
@@ -223,7 +197,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" height="150"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" height="170"/>
 
 </div>
 
@@ -233,7 +207,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux,bash,postman&theme=dark" height="150"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux,bash,postman&theme=dark" height="170"/>
 
 <br><br>
 
@@ -259,14 +233,14 @@
 
 ### AI-Powered Student Community Platform
 
-- 40+ PG & shop listings  
-- 200+ subject-wise notes  
-- AI chatbot (~95% accuracy)  
-- Mental-health emotion detection  
-- Skills roadmap generation  
-- Intelligent notes simplification  
-- Real-time chat (100+ users)  
-- Marketplace & event updates  
+✔️ 40+ PG & shop listings  
+✔️ 200+ subject-wise notes  
+✔️ AI chatbot (~95% accuracy)  
+✔️ Mental-health emotion detection  
+✔️ Skills roadmap generation  
+✔️ Intelligent notes simplification  
+✔️ Real-time chat (100+ users)  
+✔️ Marketplace & event updates  
 
 ### ⚙️ Tech Stack
 
@@ -280,14 +254,14 @@ MERN • Socket.io • Tailwind CSS • LangChain • LLM APIs • Scikit-learn 
 
 ### Intelligent Smart Surveillance System
 
-- Real-time crowd heatmaps  
-- Face-recognition attendance  
-- Intrusion detection systems  
-- 4-screen monitoring  
-- <200ms latency  
-- Automated alerts  
-- Dynamic threshold tuning  
-- AI-powered reporting  
+✔️ Real-time crowd heatmaps  
+✔️ Face-recognition attendance  
+✔️ Intrusion detection systems  
+✔️ 4-screen monitoring  
+✔️ <200ms latency  
+✔️ Automated alerts  
+✔️ Dynamic threshold tuning  
+✔️ AI-powered reporting  
 
 ### ⚙️ Tech Stack
 
@@ -305,14 +279,14 @@ Django • OpenCV • Python • JavaScript • HTML • CSS
 
 ### AI-Enabled Farm Management Platform
 
-- Crop buying & selling  
-- Theft reduction alerts (~25%)  
-- Face-recognition attendance  
-- <300ms live video latency  
-- Real-time chat (100+ users)  
-- Profit-loss analytics  
-- Crop recommendation systems  
-- Smart agriculture workflows  
+✔️ Crop buying & selling  
+✔️ Theft reduction alerts (~25%)  
+✔️ Face-recognition attendance  
+✔️ <300ms live video latency  
+✔️ Real-time chat (100+ users)  
+✔️ Profit-loss analytics  
+✔️ Crop recommendation systems  
+✔️ Smart agriculture workflows  
 
 ### ⚙️ Tech Stack
 
@@ -326,13 +300,13 @@ Django • OpenCV • SQLite • Bootstrap • Python
 
 ### Artwork Buying & Learning Platform
 
-- 50+ artworks hosted  
-- 15+ artists onboarded  
-- Personalized commission system  
-- Secure payment workflows  
-- Artist engagement growth (~35%)  
-- Optimized marketplace architecture  
-- Tutorial learning ecosystem  
+✔️ 50+ artworks hosted  
+✔️ 15+ artists onboarded  
+✔️ Personalized commission system  
+✔️ Secure payment workflows  
+✔️ Artist engagement growth (~35%)  
+✔️ Optimized marketplace architecture  
+✔️ Tutorial learning ecosystem  
 
 ### ⚙️ Tech Stack
 
