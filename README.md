@@ -93,7 +93,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=48&dura
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" height="170"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="170"/>
 
 <br><br>
 
