@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="aryan.png" width="180" style="border-radius:50%;" />
+  <img src="Aryan_photo.jpeg" width="180px" height="180px" style="border-radius:50%" />
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,50:004e92,100:00F7FF&text=Aryan%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Cloud%20Engineer&descAlignY=58&descSize=22"/>
 
