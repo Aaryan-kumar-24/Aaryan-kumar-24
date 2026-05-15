@@ -119,7 +119,34 @@ src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=48&dura
 
 </div>
 
+
+# 💻 PROGRAMMING LANGUAGES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" height="170"/>
+
+</div>
+
 ---
+
+# 🧰 TOOLS & PLATFORMS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux,bash,postman&theme=dark" height="170"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+</div>
+
+---
+
+
 
 # 🌍 FULL STACK DEVELOPMENT
 
@@ -142,6 +169,17 @@ src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=48&dura
 </div>
 
 ---
+
+# 🗄️ DATABASES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase&theme=dark" height="170"/>
+
+</div>
+
+---
+
 
 # ☁️ CLOUD • DEVOPS • INFRASTRUCTURE
 
@@ -201,41 +239,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=48&dura
 
 ---
 
-# 🗄️ DATABASES
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase&theme=dark" height="170"/>
-
-</div>
-
----
-
-# 💻 PROGRAMMING LANGUAGES
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" height="170"/>
-
-</div>
-
----
-
-# 🧰 TOOLS & PLATFORMS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux,bash,postman&theme=dark" height="170"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
-</div>
-
----
 
 # 🚀 FEATURED PROJECTS
 
