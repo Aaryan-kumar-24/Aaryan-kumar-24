@@ -99,22 +99,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=48&dura
 
 ---
 
-# 🧰 TOOLS & PLATFORMS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux,mac&theme=dark" height="170"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
-</div>
-
----
-
 
 
 # 🌍 FULL STACK DEVELOPMENT
@@ -239,7 +223,23 @@ src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=48&dura
 
 </div>
 
+****
 
+# 🧰 TOOLS & PLATFORMS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux&theme=dark" height="170"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+</div>
+
+---
 
 # 🚀 FEATURED PROJECTS
 
