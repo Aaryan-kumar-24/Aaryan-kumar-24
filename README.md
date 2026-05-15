@@ -1,12 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
-
-<h3 align="center">
-AI Engineer • Full Stack Developer • Computer Vision Developer • Cloud & DevOps Enthusiast
-</h3>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;Computer+Vision+Developer;Cloud+%26+DevOps+Engineer;Open+Source+Contributor;Building+Scalable+Systems;Always+Learning+New+Technologies" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Aryan%20Kumar&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Cloud%20Enthusiast&descAlignY=55&descSize=20"/>
 
 </div>
 
@@ -14,44 +8,74 @@ AI Engineer • Full Stack Developer • Computer Vision Developer • Cloud & D
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Aryan%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&height=80&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;Computer+Vision+Developer;Cloud+%26+DevOps+Engineer;Building+Scalable+Systems;Passionate+About+Innovation;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p0NDF4MzQ5M3J6a2Q0cG85ZWFwZ3A4dGx4ZnNha2Y1YjJ2eGRnZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="900"/>
+
+</div>
+
+---
+
+# 🚀 ABOUT ME
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="60%" align="left">
+
+### 👨‍💻 Who Am I?
 
 - 🎓 Computer Science Engineering Student  
-- 🧠 Passionate about Artificial Intelligence & Intelligent Systems  
-- ⚡ Building scalable Full Stack & AI-powered applications  
-- ☁️ Exploring Cloud Infrastructure & DevOps Engineering  
-- 👁️ Working on Computer Vision & Automation Systems  
-- 🚀 Love solving real-world problems through technology  
-- 🔥 Strong interest in scalable architecture & system design  
-- 🎯 Goal: Become an elite AI + Systems Engineer  
+- 🧠 AI & Machine Learning Enthusiast  
+- ⚡ Passionate Full Stack Developer  
+- ☁️ Cloud & DevOps Learner  
+- 👁️ Computer Vision Developer  
+- 🚀 Building scalable intelligent systems  
+- 🔥 Focused on real-world impactful projects  
+- 🎯 Goal: Become a world-class AI & Systems Engineer  
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Aaryan-kumar-24">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🧠 Artificial Intelligence & Machine Learning
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+<a href="https://github.com/Aaryan-kumar-24">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+</a>
+
+</div>
+
+---
+
+# 🧠 ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark&perline=8" height="90"/>
 
 <br><br>
 
@@ -75,39 +99,39 @@ AI Engineer • Full Stack Developer • Computer Vision Developer • Cloud & D
 
 ---
 
-# 🌍 Full Stack Development
+# 🌍 FULL STACK DEVELOPMENT
 
-## 🎨 Frontend Development
+## 🎨 FRONTEND
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,figma&theme=dark&perline=8" height="100"/>
 
 </div>
 
 ---
 
-## ⚙️ Backend Development
+## ⚙️ BACKEND
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark&perline=8" height="100"/>
 
 </div>
 
 ---
 
-# ☁️ Cloud Computing & DevOps
+# ☁️ CLOUD COMPUTING & DEVOPS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,ansible,bash,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,ansible,bash,linux&theme=dark&perline=8" height="100"/>
 
 </div>
 
 ---
 
-## ☁️ AWS Services
+## ☁️ AWS SERVICES
 
 <div align="center">
 
@@ -155,31 +179,31 @@ AI Engineer • Full Stack Developer • Computer Vision Developer • Cloud & D
 
 ---
 
-# 🗄️ Databases
+# 🗄️ DATABASES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase&theme=dark&perline=8" height="100"/>
 
 </div>
 
 ---
 
-# 💻 Programming Languages
+# 💻 PROGRAMMING LANGUAGES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark&perline=8" height="100"/>
 
 </div>
 
 ---
 
-# 🧰 Tools & Platforms
+# 🧰 TOOLS & PLATFORMS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux,bash,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,linux,bash,postman&theme=dark&perline=8" height="100"/>
 
 <br><br>
 
@@ -191,7 +215,7 @@ AI Engineer • Full Stack Developer • Computer Vision Developer • Cloud & D
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 <div align="center">
 
@@ -203,12 +227,13 @@ AI Engineer • Full Stack Developer • Computer Vision Developer • Cloud & D
 
 ## 🌾 Aryavarta-Ekheti
 
-Smart Agriculture Ecosystem
+### Smart Agriculture Platform
 
 - AI-powered workflows  
-- Worker management  
 - Smart monitoring systems  
+- Worker management  
 - Full stack architecture  
+- Automation integrations  
 
 </td>
 
@@ -216,12 +241,13 @@ Smart Agriculture Ecosystem
 
 ## 🤝 Mitra
 
-AI Student Community Platform
+### AI Student Community Platform
 
-- Smart collaboration  
+- Intelligent collaboration  
 - AI integrations  
-- Resource sharing  
+- Smart communication  
 - Community ecosystem  
+- Resource sharing  
 
 </td>
 
@@ -233,12 +259,13 @@ AI Student Community Platform
 
 ## 🎨 Aryavarta Artists
 
-Professional Art Marketplace
+### Professional Art Marketplace
 
 - Commission systems  
 - Marketplace workflows  
 - Interactive UI/UX  
 - Django-powered backend  
+- Artist ecosystem  
 
 </td>
 
@@ -246,12 +273,13 @@ Professional Art Marketplace
 
 ## 👁️ Face Detection System
 
-Computer Vision Application
+### Computer Vision Application
 
-- OpenCV-based recognition  
+- Real-time recognition  
 - Attendance automation  
-- Real-time verification  
 - Intelligent monitoring  
+- OpenCV integration  
+- AI verification systems  
 
 </td>
 
@@ -263,19 +291,19 @@ Computer Vision Application
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aaryan-kumar-24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Aaryan-kumar-24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan-kumar-24&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan-kumar-24&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GITHUB STREAK
 
 <div align="center">
 
@@ -285,7 +313,7 @@ Computer Vision Application
 
 ---
 
-# 📈 Contribution Graph
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -295,7 +323,7 @@ Computer Vision Application
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center">
 
@@ -305,7 +333,7 @@ Computer Vision Application
 
 ---
 
-# ⚡ Developer Insights
+# ⚡ DEVELOPER INSIGHTS
 
 <div align="center">
 
@@ -321,7 +349,7 @@ Computer Vision Application
 
 ---
 
-# 🌟 Profile Views
+# 🌟 PROFILE VIEWS
 
 <div align="center">
 
@@ -333,10 +361,10 @@ Computer Vision Application
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
 
 </div>
 
 <h3 align="center">
-✨ Build • Learn • Scale • Innovate ✨
+✨ BUILD • LEARN • SCALE • INNOVATE ✨
 </h3>
