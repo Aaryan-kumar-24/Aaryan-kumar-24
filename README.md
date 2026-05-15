@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
   <img 
-    src="Aryan_photo.jpeg"
+    src="aryanimage.jpeg"
     width="180"
     height="180"
     style="border-radius:50%; object-fit:cover;"
